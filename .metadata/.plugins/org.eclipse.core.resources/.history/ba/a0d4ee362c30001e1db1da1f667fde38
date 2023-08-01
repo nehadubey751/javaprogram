@@ -1,0 +1,12 @@
+package com.string;
+
+public class StringReverse {
+
+	public static void main(String[] args) {
+		String str ="Neha";
+		StringBuilder  sb= new StringBuilder ();
+		System.out.println(sb.reverse());
+
+	}
+
+}
